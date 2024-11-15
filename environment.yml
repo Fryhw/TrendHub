@@ -9,12 +9,14 @@ dependencies:
   - pandas
   - flask
   - scikit-learn
+  - ipykernel
 
   # Optional: Jupyter Notebook for development
-  - jupyter-lab
+  - jupyter
 
   # Specify pip dependencies if needed
   - pip
   - pip:
       - requests
       - matplotlib
+      - pymongo
