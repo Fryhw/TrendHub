@@ -1,0 +1,20 @@
+name: trendHub  # Name of the environment
+channels:
+  - conda-forge  # Add this for access to a broader set of packages
+  - defaults
+dependencies:
+  # Core Python dependencies
+  - python=3.9
+  - numpy
+  - pandas
+  - flask
+  - scikit-learn
+
+  # Optional: Jupyter Notebook for development
+  - jupyter-lab
+
+  # Specify pip dependencies if needed
+  - pip
+  - pip:
+      - requests
+      - matplotlib
