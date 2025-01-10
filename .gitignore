@@ -1,3 +1,6 @@
 tokens/*
 .ipynb_checkpoints/*
+data/external/*
 requests/*
+.*/.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
