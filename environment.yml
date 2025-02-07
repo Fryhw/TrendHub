@@ -15,9 +15,9 @@ dependencies:
   - matplotlib
   - notebook
   - numpy
+  - pymongo
   - pandas
   - scikit-learn
   - pip:
     - python-dotenv
     - mkdocs
-    - -e .
