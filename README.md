@@ -63,6 +63,6 @@ TrendHub is an app designed to browse and suggest repository that may relate abo
 ## Contribution
 mail : noe.mention.etu@univ-lemans.fr
 mail : mateo.rullier.etu@univ-lemans.fr
-mail : arthur.scherre.etu@univ-lemans.fr
+mail : arthur.scherrer.etu@univ-lemans.fr
 
 
